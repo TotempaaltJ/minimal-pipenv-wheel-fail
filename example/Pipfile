@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"7abf3e1" = {file = "file:///Users/martijn/Projects/lib/minimal-pipenv-fail/dependency/dist/test_dep-1.0-py3-none-any.whl"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
